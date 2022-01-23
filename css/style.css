@@ -35,3 +35,8 @@ body{
     transform: rotate(-180deg)
 }
 /* Question End */
+/* Footer Start */
+footer{
+    padding: 90px 0;
+}
+/* Footer End */

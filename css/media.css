@@ -17,8 +17,8 @@
         margin-bottom: 5px;
     }
     .slider-item img{
-        width: 360px;
-        height: 586px;
+        width: 400px;
+        height: 520px;
     }
     .slider-caption{
         padding: 0;
@@ -27,6 +27,14 @@
         font-size: 18px;
     } 
     /* Header End */
+    /* Footer Start */
+    footer{
+        padding: 60px 0;
+    }
+    .footer-p{
+        margin-top: 50px;
+    }
+    /* Footer End */
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -40,6 +48,32 @@
         margin-bottom: 60px;
     }
     /* Common End */
+    /* Header Start */
+    .logo a{
+        font-size: 15px !important;
+    }
+    .slider-indicators{
+        margin-bottom: 5px;
+    }
+    .slider-item img{
+        width: 360px;
+        height: 586px;
+    }
+    .slider-caption{
+        padding: 0;
+    }
+    .slider-caption h4{
+        font-size: 18px;
+    } 
+    /* Header End */
+    /* Footer Start */
+    footer{
+        padding: 60px 0;
+    }
+    .footer-p{
+        margin-top: 50px;
+    }
+    /* Footer End */
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -49,10 +83,26 @@
         padding: 70px 0;
     }
     .common-h1{
-        font-size: 20px;
         margin-bottom: 70px;
     }
     /* Common End */
+    /* Header Start */
+    .slider-item img{
+        height: 500px;
+    }
+    .slider-indicators{
+        margin-bottom: 5px;
+    }
+    .slider-caption{
+        padding: 0;
+    }
+    .slider-caption h4{
+        font-size: 18px;
+    } 
+    .slider-caption a{
+        margin-bottom: 15px !important;
+    }
+    /* Header End */
 }
 
 /* Large devices (desktops, 992px and up) */
