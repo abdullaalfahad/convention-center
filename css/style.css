@@ -17,6 +17,9 @@ body{
 }
 /* Header End */
 /* Package Start */
+.custom-toast{
+    margin-bottom: 30px;
+}
 .card3{
     border-radius: 25px;
 }

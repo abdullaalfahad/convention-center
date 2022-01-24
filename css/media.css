@@ -125,6 +125,10 @@
     .contact-us{
         padding-bottom: 70px;
     }
+    .contact-right{
+        margin: 0;
+        padding: 20px 10px;
+    }
     /* Contact End */
 }
 
