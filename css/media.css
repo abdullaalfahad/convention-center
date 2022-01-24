@@ -2,7 +2,7 @@
 @media (max-width: 575.98px) {
     /* Common Start */
     .common-padding{
-        padding: 50px 0;
+        padding: 50px 0 0;
     }
     .common-h1{
         font-size: 20px;
@@ -27,6 +27,15 @@
         font-size: 18px;
     } 
     /* Header End */
+    /* Contact Start */
+    .contact-us{
+        padding-bottom: 50px;
+    }
+    .contact-right{
+        margin: 0;
+        padding: 20px 10px;
+    }
+    /* Contact End */
     /* Footer Start */
     footer{
         padding: 60px 0;
@@ -41,10 +50,10 @@
 @media (min-width: 576px) and (max-width: 767.98px) {
     /* Common Start */
     .common-padding{
-        padding: 60px 0;
+        padding: 60px 0 0;
     }
     .common-h1{
-        font-size: 20px;
+        font-size: 24px;
         margin-bottom: 60px;
     }
     /* Common End */
@@ -66,6 +75,15 @@
         font-size: 18px;
     } 
     /* Header End */
+    /* Contact Start */
+    .contact-us{
+        padding-bottom: 60px;
+    }
+    .contact-right{
+        margin: 0;
+        padding: 20px 10px;
+    }
+    /* Contact End */
     /* Footer Start */
     footer{
         padding: 60px 0;
@@ -80,7 +98,7 @@
 @media (min-width: 768px) and (max-width: 991.98px) {
     /* Common Start */
     .common-padding{
-        padding: 70px 0;
+        padding: 70px 0 0;
     }
     .common-h1{
         margin-bottom: 70px;
@@ -103,6 +121,11 @@
         margin-bottom: 15px !important;
     }
     /* Header End */
+    /* Contact Start */
+    .contact-us{
+        padding-bottom: 70px;
+    }
+    /* Contact End */
 }
 
 /* Large devices (desktops, 992px and up) */

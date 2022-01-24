@@ -5,7 +5,7 @@ body{
     font-family: 'Poppins', sans-serif;;
 }
 .common-padding{
-    padding: 100px 0;
+    padding: 100px 0 0;
 }
 .common-h1{
     margin-bottom: 100px;
@@ -35,6 +35,16 @@ body{
     transform: rotate(-180deg)
 }
 /* Question End */
+/* Contact Start */
+.contact-us{
+    padding-bottom: 100px;
+}
+.contact-right{
+    border-top: 15px solid #0D6EFD;
+    padding: 50px 150px;
+    margin: 30px;
+}
+/* Contact End */
 /* Footer Start */
 footer{
     padding: 90px 0;
